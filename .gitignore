@@ -32,7 +32,3 @@ Thumbs.db
 *.sql
 *.dump
 db/booking.sql
-
-# Custom exclusions
-database.php
-config.php
