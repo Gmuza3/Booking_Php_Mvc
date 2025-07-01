@@ -1,0 +1,38 @@
+# Env variables
+.env
+
+# Node, vendor & composer junk
+/vendor/
+/node_modules/
+composer.lock
+
+# Backup or exported DB dumps (მაგალითად დროებითი)
+*.sql
+*.dump
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# VSCode და IDE
+.vscode/
+.idea/
+
+# Cache და ტესტის ფაილები
+*.cache
+*.tmp
+
+# PHPStorm და სხვა IDE-specific junk
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# DB
+*.sql
+*.dump
+db/booking.sql
+
+# Custom exclusions
+database.php
+config.php
