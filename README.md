@@ -28,6 +28,7 @@ This is a full-stack booking management system developed using **pure PHP**, **M
 - DotEnv (for environment config)
 - Vanilla JavaScript
 - Vanilla CSS (can be styled with Bootstrap if desired)
+- Bootstrap 5 for responsive
 
 ---
 
