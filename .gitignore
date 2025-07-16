@@ -6,7 +6,7 @@
 /node_modules/
 composer.lock
 
-# Backup or exported DB dumps (მაგალითად დროებითი)
+# Backup or exported DB dumps
 *.sql
 *.dump
 
