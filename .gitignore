@@ -6,10 +6,6 @@
 /node_modules/
 composer.lock
 
-# Backup or exported DB dumps
-*.sql
-*.dump
-
 # System files
 .DS_Store
 Thumbs.db
