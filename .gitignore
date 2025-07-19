@@ -27,7 +27,3 @@ Thumbs.db
 *.iml
 *.sublime-project
 *.sublime-workspace
-
-# DB
-*.sql
-*.dump
