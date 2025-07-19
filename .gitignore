@@ -31,4 +31,3 @@ Thumbs.db
 # DB
 *.sql
 *.dump
-db/booking.sql
